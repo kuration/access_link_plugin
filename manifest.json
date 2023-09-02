@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "access_link",
+  "name_for_human": "Access Link",
+  "description_for_human": "Access any links on the web and get the information you need.",
+  "description_for_model": "Plugin for accessing web page data from a specific URL. Use it whenever a user asks something about a specific URL they provide.",
+  "api": {
+    "type": "openapi",
+    "url": "https://www.accesslinks.ai/.well-known/openapi.yaml",
+    "has_user_authentication": false
+  },
+  "auth": {
+    "type": "none"
+  },
+  "logo_url": "URL_of_Access_Link_Logo_Here",
+  "contact_email": "Your_Contact_Email_Here",
+  "legal_info_url": "Your_Legal_Info_URL_Here"
+}
